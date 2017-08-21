@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WebRTC"
+  id="myeclipse.1503206790179"
+  context-root="/WebRTC"
+  j2ee-spec="6.0"
+  archive="WebRTC.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
